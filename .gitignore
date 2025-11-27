@@ -85,9 +85,10 @@ data/raw/*.csv
 data/raw/*.json
 data/raw/*.xlsx
 *.parquet
+*.zip
 
 # Model files
-*.pkl
+#*.pkl
 *.joblib
 *.h5
 *.model
